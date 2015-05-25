@@ -94,13 +94,13 @@ storageDrawers.config.prop.baseStorage=Capacidad básica.
 storageDrawers.config.prop.baseStorage.tooltip=Número de stacks permitidos en cada cajón.
 storageDrawers.config.prop.recipeOutput=Resultado de la Receta
 storageDrawers.config.prop.recipeOutput.tooltip=Número de ítems por cada crafteo.
-storageDrawers.config.prop.enableSidedInput=Enable Sided Input
-storageDrawers.config.prop.enableSidedInput.tooltip=Other blocks can insert items into drawers.
-storageDrawers.config.prop.enableSidedOutput=Enable Sided Output
-storageDrawers.config.prop.enableSidedOutput.tooltip=Other blocks can extract items from drawers.
+storageDrawers.config.prop.enableSidedInput=Habilita entrada lateral
+storageDrawers.config.prop.enableSidedInput.tooltip=Otros bloques pueden insertar items en los cajones.
+storageDrawers.config.prop.enableSidedOutput=Habilita la salida lateral.
+storageDrawers.config.prop.enableSidedOutput.tooltip=Otros bloques pueden extraer items de los cajones.
 
-storageDrawers.config.integration=Integration
-storageDrawers.config.integration.tooltip=Configure integration with other mods.
+storageDrawers.config.integration=Integracion
+storageDrawers.config.integration.tooltip=Configura la integracion con otros mods.
 
-storageDrawers.config.integration.enableAE2=Enable Applied Energistics 2 Integration
-storageDrawers.config.integration.enableWaila=Enable WAILA Integration
+storageDrawers.config.integration.enableAE2=Habilita la integracion de ApliedEnergestics2
+storageDrawers.config.integration.enableWaila=Habilita la integracion de Waila
